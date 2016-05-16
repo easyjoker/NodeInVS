@@ -1,0 +1,15 @@
+{
+  "name": "vsexpresswithjade",
+  "version": "0.0.0",
+  "description": "vsexpresswithjade",
+  "main": "app.js",
+  "author": {
+    "name": "user",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
