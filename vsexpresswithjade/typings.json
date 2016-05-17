@@ -1,0 +1,5 @@
+{
+  "ambientDependencies": {
+    "mongodb": "registry:dt/mongodb#2.1.0+20160512045721"
+  }
+}
